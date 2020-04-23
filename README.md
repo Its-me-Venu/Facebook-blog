@@ -19,6 +19,7 @@ pip install -r requirements\dev.txt
 set FLASK_APP=run.py
 
 Run the CLI deploycommand to create the database:
+
 flask deploy
 
 Run the application and go to localhost:5000 to see the application running:
